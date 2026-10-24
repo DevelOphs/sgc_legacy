@@ -1,0 +1,18 @@
+# .NET Build Artifacts
+**/[Bb]in/
+**/[Oo]bj/
+.vs/
+*.user
+*.suo
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE & OS
+.DS_Store
+Thumbs.db

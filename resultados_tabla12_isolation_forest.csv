@@ -1,0 +1,11 @@
+Metodo,Ventana_W_s,contamination,Precision,Exhaustividad,Medida_F1,Retraso_Deteccion_s,VP,FP,FN,VN
+Isolation Forest,5,0.01,1.0,0.286,0.444,3.27,4,0,10,0
+Isolation Forest,5,0.05,1.0,0.286,0.444,3.27,4,0,10,0
+Isolation Forest,5,0.10,1.0,0.286,0.444,3.27,4,0,10,0
+Isolation Forest,10,0.01,0.0,0.0,0.0,5.0,0,0,7,0
+Isolation Forest,10,0.05,1.0,0.286,0.444,7.52,2,0,5,0
+Isolation Forest,10,0.10,1.0,0.714,0.833,6.93,5,0,2,0
+Isolation Forest,15,0.01,0.0,0.0,0.0,7.5,0,0,5,0
+Isolation Forest,15,0.05,0.0,0.0,0.0,7.5,0,0,5,0
+Isolation Forest,15,0.10,0.0,0.0,0.0,7.5,0,0,5,0
+Línea base (Umbral estático p95 > 1000 ms),5,—,1.0,0.5,0.667,2.16,7,0,7,0
